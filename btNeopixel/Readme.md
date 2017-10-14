@@ -2,4 +2,4 @@
 
 ## For more detail you can look this topic
 
-<center><img src="appss.png" width="400px" height="900px"></center>
+<center><img src="appss.png" width="400px" height="600px"></center>
